@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/cuongngo08062001/Git_Lumi/compare/v1.3.2...v2.0.0) (2022-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* test
+
+### Features
+
+* test ([5f15f35](https://github.com/cuongngo08062001/Git_Lumi/commit/5f15f358b7833a0070f0f690568aad1d4c9d0317))
+
 ### [1.3.2](https://github.com/cuongngo08062001/Git_Lumi/compare/v1.3.1...v1.3.2) (2022-07-11)
 
 ### [1.3.1](https://github.com/cuongngo08062001/Git_Lumi/compare/v1.3.1-alpha.0...v1.3.1) (2022-07-11)
